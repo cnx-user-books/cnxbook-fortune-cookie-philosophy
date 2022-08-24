@@ -1,3 +1,100 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10914</md:content-id>  <md:title>Fortune Cookie Philosophy</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>        <md:uuid>368acfd4-bec8-454a-848a-1ad81e4ac161</md:uuid>
-<md:slug>fortune-cookie-philosophy</md:slug>
-</metadata>  <col:content>          <col:module document="m31196"/>                                          <col:subcollection>        <md:title>People</md:title>                                <col:content>                    <col:module document="m31119"/>                            <col:module document="m31121"/>                            <col:module document="m31122"/>                            <col:module document="m31123"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>The Individual</md:title>                                <col:content>                    <col:module document="m31125"/>                            <col:module document="m31127"/>                            <col:module document="m31128"/>                            <col:module document="m31129"/>                            <col:module document="m31130"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Creative</md:title>                                <col:content>                    <col:module document="m31134"/>                            <col:module document="m31137"/>                            <col:module document="m31139"/>                            <col:module document="m31141"/>                            <col:module document="m31142"/>                            <col:module document="m31143"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Your Destiny</md:title>                                <col:content>                    <col:module document="m31149"/>                            <col:module document="m31152"/>                            <col:module document="m31153"/>                            <col:module document="m31154"/>                            <col:module document="m31155"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Work and Rewards</md:title>                                <col:content>                    <col:module document="m31115"/>                            <col:module document="m31116"/>                            <col:module document="m31113"/>                            <col:module document="m31117"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Time</md:title>                                <col:content>                    <col:module document="m31156"/>                            <col:module document="m31157"/>                            <col:module document="m31158"/>                            <col:module document="m31160"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Relaxation</md:title>                                <col:content>                    <col:module document="m31162"/>                            <col:module document="m31163"/>                            <col:module document="m31167"/>                            <col:module document="m31168"/>                            <col:module document="m31169"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Wisdom</md:title>                                <col:content>                    <col:module document="m31170"/>                            <col:module document="m31172"/>                            <col:module document="m31173"/>                            <col:module document="m31174"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Miscellaneous</md:title>                                <col:content>                    <col:module document="m31191"/>                            <col:module document="m31193"/>                            <col:module document="m31194"/>                            <col:module document="m31195"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Kenneth Leroy Busbee">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10914</md:content-id>
+    <md:title>Fortune Cookie Philosophy</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>368acfd4-bec8-454a-848a-1ad81e4ac161</md:uuid>
+    <md:slug>fortune-cookie-philosophy</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m31196"/>
+    <col:subcollection>
+      <md:title>People</md:title>
+      <col:content>
+        <col:module document="m31119"/>
+        <col:module document="m31121"/>
+        <col:module document="m31122"/>
+        <col:module document="m31123"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Individual</md:title>
+      <col:content>
+        <col:module document="m31125"/>
+        <col:module document="m31127"/>
+        <col:module document="m31128"/>
+        <col:module document="m31129"/>
+        <col:module document="m31130"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Creative</md:title>
+      <col:content>
+        <col:module document="m31134"/>
+        <col:module document="m31137"/>
+        <col:module document="m31139"/>
+        <col:module document="m31141"/>
+        <col:module document="m31142"/>
+        <col:module document="m31143"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Your Destiny</md:title>
+      <col:content>
+        <col:module document="m31149"/>
+        <col:module document="m31152"/>
+        <col:module document="m31153"/>
+        <col:module document="m31154"/>
+        <col:module document="m31155"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Work and Rewards</md:title>
+      <col:content>
+        <col:module document="m31115"/>
+        <col:module document="m31116"/>
+        <col:module document="m31113"/>
+        <col:module document="m31117"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Time</md:title>
+      <col:content>
+        <col:module document="m31156"/>
+        <col:module document="m31157"/>
+        <col:module document="m31158"/>
+        <col:module document="m31160"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Relaxation</md:title>
+      <col:content>
+        <col:module document="m31162"/>
+        <col:module document="m31163"/>
+        <col:module document="m31167"/>
+        <col:module document="m31168"/>
+        <col:module document="m31169"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Wisdom</md:title>
+      <col:content>
+        <col:module document="m31170"/>
+        <col:module document="m31172"/>
+        <col:module document="m31173"/>
+        <col:module document="m31174"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Miscellaneous</md:title>
+      <col:content>
+        <col:module document="m31191"/>
+        <col:module document="m31193"/>
+        <col:module document="m31194"/>
+        <col:module document="m31195"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
